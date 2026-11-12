@@ -1,0 +1,21 @@
+[project]
+name = "swot-global-tides"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "zsk4", email = "zachary_katz@mines.edu" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "altimetry-downloader-aviso>=0.5.0",
+    "ipykernel>=7.4.0",
+    "xarray[complete]>=2026.9.0",
+]
+
+[project.scripts]
+swot-global-tides = "swot_global_tides:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"
