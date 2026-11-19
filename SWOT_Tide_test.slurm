@@ -22,4 +22,7 @@ echo "Working directory: $(pwd)"
 #rm logs/output*
 #rm logs/error*
 
+# Sort to correct folders first
+./sort_SWOT.sh
+
 srun uv run python SWOT_Tide_test.py

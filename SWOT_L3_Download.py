@@ -60,7 +60,7 @@ base = (
     "https://tds-odatis.aviso.altimetry.fr/thredds/catalog/"
     "dataset-l3-swot-karin-nadir-validated/l3_lr_ssh/v3_0/Expert/forward/"
 )
-tracks = [f"{i:03d}" for i in range(100,300)]
+tracks = [f"{i:03d}" for i in range(100,585)]
 
 auth = netrc(
     str(Path.home() / ".altimetry/.netrc")

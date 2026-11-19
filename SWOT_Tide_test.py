@@ -50,8 +50,9 @@ min_obs = 40 # 8 amp + 8 ph + 1 trend
 m = pyTMD.io.model(model_dir).from_database(model_name)   
 ds_got = m.open_dataset(group="z")
 
+print(f"Loaded GOT5.6 from {model_dir}")
 # Load and inspect data
-swot_passes = [f"{i:03d}" for i in range(1, 300)]
+swot_passes = [f"{i:03d}" for i in range(1, 585)]
 for swot_pass in swot_passes:
     # Check if output already exists and skip if so
     out_file = Path(f"{out_nc_path}/swot_tide_fit_pass_{swot_pass}.nc")

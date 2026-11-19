@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Sorts SWOT data into folders based on pass number
+echo "Sorting SWOT data into folders based on pass number"
 folder=~/scratch/data/SWOT_Global_Tides
 
 for f in "$folder"/SWOT_L3_LR_SSH_Expert_*.nc; do
