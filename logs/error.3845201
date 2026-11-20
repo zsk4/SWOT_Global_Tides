@@ -1,7 +1,0 @@
-[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
-[Parallel(n_jobs=3)]: Done 126 tasks      | elapsed:    3.7s
-[Parallel(n_jobs=3)]: Done 666 tasks      | elapsed:   30.2s
-[Parallel(n_jobs=3)]: Done 1566 tasks      | elapsed:  1.4min
-srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
-[2026-11-18T19:57:49.366] error: *** JOB 3845201 ON c041 CANCELLED AT 2026-11-18T19:57:49 DUE to SIGNAL Terminated ***
-[2026-11-18T19:57:49.366] error: *** STEP 3845201.0 ON c041 CANCELLED AT 2026-11-18T19:57:49 DUE to SIGNAL Terminated ***
