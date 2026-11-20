@@ -169,6 +169,14 @@ for projection in projections:
                     if projection == "spilhaus":
                         mask = get_spilhaus_mask(lon, lat, ccrs.Spilhaus())
                         v = np.ma.masked_where(mask, v)
+                    if projection == "robinson":
+                        # Mask cells with longitude discontinuities
+                        lon_diff = np.abs(np.diff(lon, axis=1))
+                        bad = np.zeros(lon.shape, dtype=bool)
+                        bad[:, 1:] |= lon_diff > 180
+                        bad[:, :-1] |= lon_diff > 180
+
+                        v = np.where(bad, np.nan, v)
 
                     sc = ax.pcolormesh(
                         lon,
@@ -214,6 +222,7 @@ for projection in projections:
 
             fig.tight_layout()
             fig.savefig(f"{out_img_path}/swot_tide_fit_{constituent}_{svnm}_{projection}.png", dpi=300)
+            fig.close()
 
 for constituent in constits[:]:
     k = constits.index(constituent)
@@ -249,3 +258,4 @@ for constituent in constits[:]:
     ax_hist.legend(fontsize=10)
     fig_hist.tight_layout()
     fig_hist.savefig(f"{out_img_path}/swot_tide_fit_{constituent}_histogram.png", dpi=300)
+    fig_hist.close()

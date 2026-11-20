@@ -1,0 +1,408 @@
+Running on host: c041
+Working directory: /wendianHome/home/m10921061/SWOT_Global_Tides
+Sorting SWOT data into folders based on pass number
+Running Slurm Job ID: 3880506
+Loaded GOT5.6 from /home/m10921061/scratch/background/GOT5.6
+Pass 001 already processed. Skipping.
+Pass 002 already processed. Skipping.
+Pass 003 already processed. Skipping.
+Pass 004 already processed. Skipping.
+Pass 005 already processed. Skipping.
+Pass 006 already processed. Skipping.
+Pass 007 already processed. Skipping.
+Pass 008 already processed. Skipping.
+Pass 009 already processed. Skipping.
+Pass 010 already processed. Skipping.
+Pass 011 already processed. Skipping.
+Pass 012 already processed. Skipping.
+Pass 013 already processed. Skipping.
+Pass 014 already processed. Skipping.
+Pass 015 already processed. Skipping.
+Pass 016 already processed. Skipping.
+Pass 017 already processed. Skipping.
+Pass 018 already processed. Skipping.
+Pass 019 already processed. Skipping.
+Pass 020 already processed. Skipping.
+Pass 021 already processed. Skipping.
+Pass 022 already processed. Skipping.
+Pass 023 already processed. Skipping.
+Pass 024 already processed. Skipping.
+Pass 025 already processed. Skipping.
+Pass 026 already processed. Skipping.
+Pass 027 already processed. Skipping.
+Pass 028 already processed. Skipping.
+Pass 029 already processed. Skipping.
+Pass 030 already processed. Skipping.
+Pass 031 already processed. Skipping.
+Pass 032 already processed. Skipping.
+Pass 033 already processed. Skipping.
+Pass 034 already processed. Skipping.
+Pass 035 already processed. Skipping.
+Pass 036 already processed. Skipping.
+Pass 037 already processed. Skipping.
+Pass 038 already processed. Skipping.
+Pass 039 already processed. Skipping.
+Pass 040 already processed. Skipping.
+Pass 041 already processed. Skipping.
+Pass 042 already processed. Skipping.
+Pass 043 already processed. Skipping.
+Pass 044 already processed. Skipping.
+Pass 045 already processed. Skipping.
+Pass 046 already processed. Skipping.
+Pass 047 already processed. Skipping.
+Pass 048 already processed. Skipping.
+Pass 049 already processed. Skipping.
+Pass 050 already processed. Skipping.
+Pass 051 already processed. Skipping.
+Pass 052 already processed. Skipping.
+Pass 053 already processed. Skipping.
+Pass 054 already processed. Skipping.
+Pass 055 already processed. Skipping.
+Pass 056 already processed. Skipping.
+Pass 057 already processed. Skipping.
+Pass 058 already processed. Skipping.
+Pass 059 already processed. Skipping.
+Pass 060 already processed. Skipping.
+Pass 061 already processed. Skipping.
+Pass 062 already processed. Skipping.
+Pass 063 already processed. Skipping.
+Pass 064 already processed. Skipping.
+Pass 065 already processed. Skipping.
+Pass 066 already processed. Skipping.
+Pass 067 already processed. Skipping.
+Pass 068 already processed. Skipping.
+Pass 069 already processed. Skipping.
+Pass 070 already processed. Skipping.
+Pass 071 already processed. Skipping.
+Pass 072 already processed. Skipping.
+Pass 073 already processed. Skipping.
+Pass 074 already processed. Skipping.
+Pass 075 already processed. Skipping.
+Pass 076 already processed. Skipping.
+Pass 077 already processed. Skipping.
+Pass 078 already processed. Skipping.
+Pass 079 already processed. Skipping.
+Pass 080 already processed. Skipping.
+Pass 081 already processed. Skipping.
+Pass 082 already processed. Skipping.
+Pass 083 already processed. Skipping.
+Pass 084 already processed. Skipping.
+Pass 085 already processed. Skipping.
+Pass 086 already processed. Skipping.
+Pass 087 already processed. Skipping.
+Pass 088 already processed. Skipping.
+Pass 089 already processed. Skipping.
+Pass 090 already processed. Skipping.
+Pass 091 already processed. Skipping.
+Pass 092 already processed. Skipping.
+Pass 093 already processed. Skipping.
+Pass 094 already processed. Skipping.
+Pass 095 already processed. Skipping.
+Pass 096 already processed. Skipping.
+Pass 097 already processed. Skipping.
+Pass 098 already processed. Skipping.
+Pass 099 already processed. Skipping.
+Pass 100 already processed. Skipping.
+Pass 101 already processed. Skipping.
+Pass 102 already processed. Skipping.
+Pass 103 already processed. Skipping.
+Pass 104 already processed. Skipping.
+Pass 105 already processed. Skipping.
+Pass 106 already processed. Skipping.
+Pass 107 already processed. Skipping.
+Pass 108 already processed. Skipping.
+Pass 109 already processed. Skipping.
+Pass 110 already processed. Skipping.
+Pass 111 already processed. Skipping.
+Pass 112 already processed. Skipping.
+Pass 113 already processed. Skipping.
+Pass 114 already processed. Skipping.
+Pass 115 already processed. Skipping.
+Pass 116 already processed. Skipping.
+Pass 117 already processed. Skipping.
+Pass 118 already processed. Skipping.
+Pass 119 already processed. Skipping.
+Pass 120 already processed. Skipping.
+Pass 121 already processed. Skipping.
+Pass 122 already processed. Skipping.
+Pass 123 already processed. Skipping.
+Pass 124 already processed. Skipping.
+Pass 125 already processed. Skipping.
+Pass 126 already processed. Skipping.
+Pass 127 already processed. Skipping.
+Pass 128 already processed. Skipping.
+Pass 129 already processed. Skipping.
+Pass 130 already processed. Skipping.
+Pass 131 already processed. Skipping.
+Pass 132 already processed. Skipping.
+Pass 133 already processed. Skipping.
+Pass 134 already processed. Skipping.
+Pass 135 already processed. Skipping.
+Pass 136 already processed. Skipping.
+Pass 137 already processed. Skipping.
+Pass 138 already processed. Skipping.
+Pass 139 already processed. Skipping.
+Pass 140 already processed. Skipping.
+Pass 141 already processed. Skipping.
+Pass 142 already processed. Skipping.
+Pass 143 already processed. Skipping.
+Pass 144 already processed. Skipping.
+Pass 145 already processed. Skipping.
+Pass 146 already processed. Skipping.
+Pass 147 already processed. Skipping.
+Pass 148 already processed. Skipping.
+Pass 149 already processed. Skipping.
+Pass 150 already processed. Skipping.
+Pass 151 already processed. Skipping.
+Pass 152 already processed. Skipping.
+Pass 153 already processed. Skipping.
+Pass 154 already processed. Skipping.
+Pass 155 already processed. Skipping.
+Pass 156 already processed. Skipping.
+Pass 157 already processed. Skipping.
+Pass 158 already processed. Skipping.
+Pass 159 already processed. Skipping.
+Pass 160 already processed. Skipping.
+Pass 161 already processed. Skipping.
+Pass 162 already processed. Skipping.
+Pass 163 already processed. Skipping.
+Pass 164 already processed. Skipping.
+Pass 165 already processed. Skipping.
+Pass 166 already processed. Skipping.
+Pass 167 already processed. Skipping.
+Pass 168 already processed. Skipping.
+Pass 169 already processed. Skipping.
+Pass 170 already processed. Skipping.
+Pass 171 already processed. Skipping.
+Pass 172 already processed. Skipping.
+Pass 173 already processed. Skipping.
+Pass 174 already processed. Skipping.
+Pass 175 already processed. Skipping.
+Pass 176 already processed. Skipping.
+Pass 177 already processed. Skipping.
+Pass 178 already processed. Skipping.
+Pass 179 already processed. Skipping.
+Pass 180 already processed. Skipping.
+Pass 181 already processed. Skipping.
+Pass 182 already processed. Skipping.
+Pass 183 already processed. Skipping.
+Pass 184 already processed. Skipping.
+Pass 185 already processed. Skipping.
+Pass 186 already processed. Skipping.
+Pass 187 already processed. Skipping.
+Pass 188 already processed. Skipping.
+Pass 189 already processed. Skipping.
+Pass 190 already processed. Skipping.
+Pass 191 already processed. Skipping.
+Pass 192 already processed. Skipping.
+Pass 193 already processed. Skipping.
+Pass 194 already processed. Skipping.
+Pass 195 already processed. Skipping.
+Pass 196 already processed. Skipping.
+Pass 197 already processed. Skipping.
+Pass 198 already processed. Skipping.
+Pass 199 already processed. Skipping.
+Pass 200 already processed. Skipping.
+Pass 201 already processed. Skipping.
+Pass 202 already processed. Skipping.
+Pass 203 already processed. Skipping.
+Pass 204 already processed. Skipping.
+Pass 205 already processed. Skipping.
+Pass 206 already processed. Skipping.
+Pass 207 already processed. Skipping.
+Pass 208 already processed. Skipping.
+Pass 209 already processed. Skipping.
+Pass 210 already processed. Skipping.
+Pass 211: 56 files loaded
+<xarray.Dataset> Size: 99MB
+Dimensions:               (num_lines: 9860, num_pixels: 69)
+Coordinates:
+    latitude              (num_lines, num_pixels) float64 5MB ...
+    longitude             (num_lines, num_pixels) float64 5MB ...
+Dimensions without coordinates: num_lines, num_pixels
+Data variables: (12/19)
+    time                  (num_lines) datetime64[ns] 79kB ...
+    calibration           (num_lines, num_pixels) float64 5MB ...
+    cross_track_distance  (num_pixels) float64 552B ...
+    dac                   (num_lines, num_pixels) float64 5MB ...
+    internal_tide         (num_lines, num_pixels) float64 5MB ...
+    mdt                   (num_lines, num_pixels) float64 5MB ...
+    ...                    ...
+    ugos_filtered         (num_lines, num_pixels) float64 5MB ...
+    ugosa_filtered        (num_lines, num_pixels) float64 5MB ...
+    ugosa_unfiltered      (num_lines, num_pixels) float64 5MB ...
+    vgos_filtered         (num_lines, num_pixels) float64 5MB ...
+    vgosa_filtered        (num_lines, num_pixels) float64 5MB ...
+    vgosa_unfiltered      (num_lines, num_pixels) float64 5MB ...
+Attributes: (12/43)
+    Conventions:                     CF-1.9
+    Metadata_Conventions:            Unidata Dataset Discovery v1.0
+    cdm_data_type:                   Swath
+    comment:                         Sea Surface Height measured by Altimetry
+    data_used:                       SWOT KaRIn L2_LR_SSH PGC0/PIC0/PIC2/PID0...
+    doi:                             https://doi.org/10.24400/527896/A01-2023...
+    ...                              ...
+    geospatial_lon_max:              245.064009
+    date_modified:                   2025-12-21T05:49:38Z
+    history:                         2025-12-21T05:49:38Z: Created by DUACS K...
+    date_created:                    2025-12-21T05:49:38Z
+    date_issued:                     2025-12-21T05:49:38Z
+    temporality:                     forward
+Fitting tides for pass 211
+lines to fit: 7378 | points: 382519
+7378
+Pass 212: 56 files loaded
+<xarray.Dataset> Size: 99MB
+Dimensions:               (num_lines: 9860, num_pixels: 69)
+Coordinates:
+    latitude              (num_lines, num_pixels) float64 5MB ...
+    longitude             (num_lines, num_pixels) float64 5MB ...
+Dimensions without coordinates: num_lines, num_pixels
+Data variables: (12/19)
+    time                  (num_lines) datetime64[ns] 79kB ...
+    calibration           (num_lines, num_pixels) float64 5MB ...
+    cross_track_distance  (num_pixels) float64 552B ...
+    dac                   (num_lines, num_pixels) float64 5MB ...
+    internal_tide         (num_lines, num_pixels) float64 5MB ...
+    mdt                   (num_lines, num_pixels) float64 5MB ...
+    ...                    ...
+    ugos_filtered         (num_lines, num_pixels) float64 5MB ...
+    ugosa_filtered        (num_lines, num_pixels) float64 5MB ...
+    ugosa_unfiltered      (num_lines, num_pixels) float64 5MB ...
+    vgos_filtered         (num_lines, num_pixels) float64 5MB ...
+    vgosa_filtered        (num_lines, num_pixels) float64 5MB ...
+    vgosa_unfiltered      (num_lines, num_pixels) float64 5MB ...
+Attributes: (12/43)
+    Conventions:                     CF-1.9
+    Metadata_Conventions:            Unidata Dataset Discovery v1.0
+    cdm_data_type:                   Swath
+    comment:                         Sea Surface Height measured by Altimetry
+    data_used:                       SWOT KaRIn L2_LR_SSH PGC0/PIC0/PIC2/PID0...
+    doi:                             https://doi.org/10.24400/527896/A01-2023...
+    ...                              ...
+    geospatial_lon_max:              359.999353
+    date_modified:                   2025-11-24T16:59:10Z
+    history:                         2025-11-24T16:59:10Z: Created by DUACS K...
+    date_created:                    2025-11-24T16:59:10Z
+    date_issued:                     2025-11-24T16:59:10Z
+    temporality:                     forward
+<xarray.Dataset> Size: 99MB
+Dimensions:               (num_lines: 9860, num_pixels: 69)
+Coordinates:
+    latitude              (num_lines, num_pixels) float64 5MB ...
+    longitude             (num_lines, num_pixels) float64 5MB ...
+Dimensions without coordinates: num_lines, num_pixels
+Data variables: (12/19)
+    time                  (num_lines) datetime64[ns] 79kB ...
+    calibration           (num_lines, num_pixels) float64 5MB ...
+    cross_track_distance  (num_pixels) float64 552B ...
+    dac                   (num_lines, num_pixels) float64 5MB ...
+    internal_tide         (num_lines, num_pixels) float64 5MB ...
+    mdt                   (num_lines, num_pixels) float64 5MB ...
+    ...                    ...
+    ugos_filtered         (num_lines, num_pixels) float64 5MB ...
+    ugosa_filtered        (num_lines, num_pixels) float64 5MB ...
+    ugosa_unfiltered      (num_lines, num_pixels) float64 5MB ...
+    vgos_filtered         (num_lines, num_pixels) float64 5MB ...
+    vgosa_filtered        (num_lines, num_pixels) float64 5MB ...
+    vgosa_unfiltered      (num_lines, num_pixels) float64 5MB ...
+Attributes: (12/43)
+    Conventions:                     CF-1.9
+    Metadata_Conventions:            Unidata Dataset Discovery v1.0
+    cdm_data_type:                   Swath
+    comment:                         Sea Surface Height measured by Altimetry
+    data_used:                       SWOT KaRIn L2_LR_SSH PGC0/PIC0/PIC2/PID0...
+    doi:                             https://doi.org/10.24400/527896/A01-2023...
+    ...                              ...
+    geospatial_lon_max:              359.999353
+    date_modified:                   2025-12-21T05:49:49Z
+    history:                         2025-12-21T05:49:49Z: Created by DUACS K...
+    date_created:                    2025-12-21T05:49:49Z
+    date_issued:                     2025-12-21T05:49:49Z
+    temporality:                     forward
+Fitting tides for pass 212
+lines to fit: 7252 | points: 380272
+7252
+Pass 213: 57 files loaded
+Fitting tides for pass 213
+lines to fit: 5764 | points: 295839
+5764
+Pass 214 already processed. Skipping.
+Pass 215: 58 files loaded
+Fitting tides for pass 215
+lines to fit: 4637 | points: 240243
+4637
+Pass 216: 58 files loaded
+<xarray.Dataset> Size: 99MB
+Dimensions:               (num_lines: 9860, num_pixels: 69)
+Coordinates:
+    latitude              (num_lines, num_pixels) float64 5MB ...
+    longitude             (num_lines, num_pixels) float64 5MB ...
+Dimensions without coordinates: num_lines, num_pixels
+Data variables: (12/19)
+    time                  (num_lines) datetime64[ns] 79kB ...
+    calibration           (num_lines, num_pixels) float64 5MB ...
+    cross_track_distance  (num_pixels) float64 552B ...
+    dac                   (num_lines, num_pixels) float64 5MB ...
+    internal_tide         (num_lines, num_pixels) float64 5MB ...
+    mdt                   (num_lines, num_pixels) float64 5MB ...
+    ...                    ...
+    ugos_filtered         (num_lines, num_pixels) float64 5MB ...
+    ugosa_filtered        (num_lines, num_pixels) float64 5MB ...
+    ugosa_unfiltered      (num_lines, num_pixels) float64 5MB ...
+    vgos_filtered         (num_lines, num_pixels) float64 5MB ...
+    vgosa_filtered        (num_lines, num_pixels) float64 5MB ...
+    vgosa_unfiltered      (num_lines, num_pixels) float64 5MB ...
+Attributes: (12/43)
+    Conventions:                     CF-1.9
+    Metadata_Conventions:            Unidata Dataset Discovery v1.0
+    cdm_data_type:                   Swath
+    comment:                         Sea Surface Height measured by Altimetry
+    data_used:                       SWOT KaRIn L2_LR_SSH PGC0/PIC0/PIC2/PID0...
+    doi:                             https://doi.org/10.24400/527896/A01-2023...
+    ...                              ...
+    geospatial_lon_max:              359.999743
+    date_modified:                   2025-11-24T17:08:43Z
+    history:                         2025-11-24T17:08:43Z: Created by DUACS K...
+    date_created:                    2025-11-24T17:08:43Z
+    date_issued:                     2025-11-24T17:08:43Z
+    temporality:                     forward
+Fitting tides for pass 216
+lines to fit: 4517 | points: 227555
+4517
+Pass 217: 58 files loaded
+<xarray.Dataset> Size: 99MB
+Dimensions:               (num_lines: 9860, num_pixels: 69)
+Coordinates:
+    latitude              (num_lines, num_pixels) float64 5MB ...
+    longitude             (num_lines, num_pixels) float64 5MB ...
+Dimensions without coordinates: num_lines, num_pixels
+Data variables: (12/19)
+    time                  (num_lines) datetime64[ns] 79kB ...
+    calibration           (num_lines, num_pixels) float64 5MB ...
+    cross_track_distance  (num_pixels) float64 552B ...
+    dac                   (num_lines, num_pixels) float64 5MB ...
+    internal_tide         (num_lines, num_pixels) float64 5MB ...
+    mdt                   (num_lines, num_pixels) float64 5MB ...
+    ...                    ...
+    ugos_filtered         (num_lines, num_pixels) float64 5MB ...
+    ugosa_filtered        (num_lines, num_pixels) float64 5MB ...
+    ugosa_unfiltered      (num_lines, num_pixels) float64 5MB ...
+    vgos_filtered         (num_lines, num_pixels) float64 5MB ...
+    vgosa_filtered        (num_lines, num_pixels) float64 5MB ...
+    vgosa_unfiltered      (num_lines, num_pixels) float64 5MB ...
+Attributes: (12/43)
+    Conventions:                     CF-1.9
+    Metadata_Conventions:            Unidata Dataset Discovery v1.0
+    cdm_data_type:                   Swath
+    comment:                         Sea Surface Height measured by Altimetry
+    data_used:                       SWOT KaRIn L2_LR_SSH PGC0/PIC0/PIC2/PID0...
+    doi:                             https://doi.org/10.24400/527896/A01-2023...
+    ...                              ...
+    geospatial_lon_max:              167.392776
+    date_modified:                   2025-11-24T16:17:24Z
+    history:                         2025-11-24T16:17:24Z: Created by DUACS K...
+    date_created:                    2025-11-24T16:17:24Z
+    date_issued:                     2025-11-24T16:17:24Z
+    temporality:                     reproc
+Fitting tides for pass 217
